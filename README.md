@@ -1,4 +1,4 @@
-# HideFromBoss2
+# H8WM
 
 Perform several actions with one script:
 
@@ -8,4 +8,7 @@ Listener uses keyboard package
 Simulation presses using PyAutoGUI
 
 I used https://github.com/7afidi/HideFromMyBoss as inspiration and simply added the task view directly after hiding on main screen. 
+
+Then worked from there. 
+
 
