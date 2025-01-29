@@ -2,6 +2,8 @@
 
 Perform several actions with one script:
 
+pip install pywin32 keyboard pyautogui
+
 How? 
 
 - Listener uses keyboard package
